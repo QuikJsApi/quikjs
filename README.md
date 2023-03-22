@@ -1,13 +1,15 @@
 # QuikJS
 
-QuikJS is an easy-to-use API framework based on Express.js, designed to follow design patterns like Convention over Configuration, Don't Repeat Yourself, and Fat Model Thin Controller. The framework also utilizes environment-based configurations and a separate database schema with a migration system.
+QuikJS is an easy-to-use, open-source API framework based on Express.js, designed to follow design patterns like Convention over Configuration, Don't Repeat Yourself, and Fat Model Thin Controller. The framework also utilizes environment-based configurations and a separate database schema with a migration system. Contributions are welcome!
+
+[Visit our documentation on https://quickjs.com](https://quickjs.com)
 
 ## Getting Started
 
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/yourusername/quikjs.git
+  git clone git@github.com:QuikJsApi/quikjs.git
 ```
 
 2. Install dependencies:
@@ -36,6 +38,10 @@ NODE_ENV=local node app.js
 ```
 
 6. Access the API at `http://localhost:3000/api/example`.
+
+## Contributing
+
+We appreciate contributions from the community to help improve and expand the QuikJS framework. If you're interested in contributing, please read our [wiki](https://quickjs.com) guide for more information on how to get started.
 
 ## License
 
