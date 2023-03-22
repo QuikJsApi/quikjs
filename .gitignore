@@ -1,0 +1,18 @@
+# Node.js dependencies
+/node_modules
+
+# Environment configurations
+/config/environments/local.js
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Editor and IDE files
+.idea
+.vscode
+*.sublime*
+*.swp
+*.swo
